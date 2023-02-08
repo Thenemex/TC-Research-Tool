@@ -1,0 +1,6 @@
+# IntelliJ
+.idea/
+out/
+
+# Tests
+tests/Client.java
